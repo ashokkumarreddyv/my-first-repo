@@ -8,10 +8,10 @@
 
 # example
 example() {
-   echo ashok function
+   echo anil function
    echo value X - $X
   }
 
 X=10
-ashok
+anil
 
