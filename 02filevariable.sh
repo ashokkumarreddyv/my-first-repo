@@ -4,15 +4,15 @@
 
 }
 
-# access the name
-# function name
+# access the function
+# function_name
 
 # example
 example() {
-  echo example function
+  echo ashok function
   echo value X - $X
   }
 
   X=10
-  example
+  ashok
 
