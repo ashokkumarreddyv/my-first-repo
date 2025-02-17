@@ -6,7 +6,7 @@
 # access the function
 # function_name
 
-# anil
+# example
 anil() {
    echo anil function
    echo value X - $X
