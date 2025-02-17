@@ -2,7 +2,7 @@
 # function name() {
 #commands
 
-}
+# }
 
 # access the function
 # function_name
