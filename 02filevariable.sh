@@ -1,7 +1,6 @@
-# syntax
+# syntax:
 # function name() {
-#commands
-
+#  commands
 # }
 
 # access the function
@@ -9,10 +8,10 @@
 
 # example
 example() {
-  echo ashok function
-  echo value X - $X
+   echo ashok function
+   echo value X - $X
   }
 
-  X=10
-  ashok
+X=10
+ashok
 
